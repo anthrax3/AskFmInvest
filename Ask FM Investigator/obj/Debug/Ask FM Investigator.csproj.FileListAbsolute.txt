@@ -1,0 +1,9 @@
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\bin\Debug\Ask FM Investigator.exe
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\obj\Debug\Ask_FM_Investigator.FormMain.resources
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\obj\Debug\Ask_FM_Investigator.FrmLoadLikers.resources
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\obj\Debug\Ask_FM_Investigator.Properties.Resources.resources
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\obj\Debug\Ask FM Investigator.csproj.GenerateResource.Cache
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\obj\Debug\Ask FM Investigator.exe
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\obj\Debug\Ask FM Investigator.pdb
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\bin\Debug\Ask FM Investigator.pdb
+C:\Users\YasserGersy\documents\visual studio 2013\Projects\Ask FM Investigator\Ask FM Investigator\obj\Debug\Ask FM Investigator.csprojResolveAssemblyReference.cache
