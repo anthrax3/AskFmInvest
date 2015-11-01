@@ -1,5 +1,5 @@
 # AskFmInvest
-Analyze Ask.Fm User Answeres 
+Analyze Ask.Fm User Answers 
 
 
 
